@@ -1,0 +1,6 @@
+1. Read about the View tag (https://reactnative.dev/docs/view)
+2. Change the top (red view) so that it takes up 50% of the screen
+3. Change the text tag in the middle of the red view so that it reads "I am red"
+4. Add text that says "I am blue" and "I am yellow" to the center of the other views on the page
+5. Change text align to left on all the tags.
+6. Read about the button tag (https://reactnative.dev/docs/button). Add a button to the center of the yellow tag.
